@@ -16,5 +16,5 @@ Jupyter supports multiple programming languages; the book chapter focuses on Pyt
 
 Click on the links below to directly launch the notebooks in Google Colab:
 
-[Link1]
-[Link2]
+[Python - Core LC-MS concepts and QC samples](https://colab.research.google.com/drive/1zbMrJkDgW8gNhaguS9uzsJKpS3HJHeMs?usp=drive_link)
+[R - Data analysis](https://colab.research.google.com/drive/19Uqy-EvZEP5OsQ13_UYC4xqfFmzxkH_Y?usp=drive_link)
